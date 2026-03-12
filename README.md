@@ -5,7 +5,7 @@
 <p align="left">
   <!-- WoW Version -->
   <a href="https://github.com/s0h2x/LossOfControl/releases">
-    <img src="https://img.shields.io/badge/clients-3.3.5a-0070dd?style=flat-square&logo=worldofwarcraft" /><img src="https://img.shields.io/badge/-Classic%20Era-c19c12?style=flat-square" /><img src="https://img.shields.io/badge/-Retail-581b7f?style=flat-square" /></a>
+    <img src="https://img.shields.io/badge/clients-3.3.5a-0070dd?style=flat-square&logo=worldofwarcraft" /><img src="https://img.shields.io/badge/-Classic-c19c12?style=flat-square" /><img src="https://img.shields.io/badge/-Retail-581b7f?style=flat-square" /></a>
   <!-- License -->
   <a href="LICENSE">
     <img src="https://img.shields.io/github/license/s0h2x/LossOfControl?style=flat-square&color=2ecc71" /></a>
@@ -23,7 +23,7 @@
   <img src="https://github.com/user-attachments/assets/95b03bdc-9e5f-443a-ac69-9b7cea65c9a6" width="354" height="468" alt="Aura Manager">
 </details>
 
-**Loss of Control** is a standalone backport of the modern WoW Loss of Control indicator for `Legacy` and `Classic Era` versions.
+**Loss of Control** is a standalone backport of the modern WoW Loss of Control alert for `Legacy` and `Classic Line` versions.
 
 It displays crowd control (CC) effects (Stun, Fear, Silence, Disarm, etc.) with an icon, remaining duration, and a cooldown spiral.
 
